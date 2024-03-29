@@ -1,0 +1,97 @@
+@media (max-width: 575.98px) {
+    /* NAV PART START */
+    body{
+        overflow-x: hidden;
+    }
+    .logo img {
+        width: 210%;
+    }
+
+    .navbar ul li a {
+        font-size: 18px;
+    }
+    /* NAV PART END */
+    /* banner part start */
+    .banner-text h1 {
+        font-size: 30px;
+       
+        padding: 0 20px;
+    }
+    .banner-text h5 {
+   
+        width: auto;
+     
+    }
+    #banner {
+        padding-bottom: 100px;
+    }
+    #banner {
+        padding-top: 100px;
+       
+    }
+    /* banner part end */
+    /* team */
+    .team{
+        row-gap: 20px;
+    }
+    /* team */
+    /* about */
+    .about-text h4 {
+        width: auto;
+        font-size: 25px;
+        padding-left: 46px;
+       
+    }
+}
+
+
+
+
+@media (min-width: 576px) and (max-width: 766.98px) {
+   /* NAV PART START */
+   body{
+    overflow-x: hidden;
+}
+.logo img {
+	width: 190%;
+}
+/* NAV PART END */
+/* banner part start */
+.banner-text h5 {
+	width: auto;
+
+}
+
+/* banner part end */
+/* team */
+.team{
+    row-gap: 20px;
+}
+/* team */
+/* about part start */
+
+
+   
+}
+
+
+
+@media (min-width: 767px) and (max-width: 991.98px) {
+  /* NAV PART START */
+  body{
+    overflow-x: hidden;
+}
+.logo img {
+	width: 190%;
+}
+.banner-text h5 {
+	width: auto;
+	
+}
+   
+
+.team{
+    row-gap: 20px;
+}
+
+    }
